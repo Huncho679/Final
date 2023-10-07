@@ -3,7 +3,7 @@
 **Usage**: Please follow these instructions to set up and run the project:
 
 1. **Open the Entire "Final" Folder**: 
-   Open the entire "Final" folder in your preferred code editor, such as Visual Studio Code.
+   Open the entire project (or not but that's how I did it) in your preferred code editor, such as Visual Studio Code.
 
 2. **Start the Server**:
    - Navigate to the "Server" folder within the "Final" directory.
