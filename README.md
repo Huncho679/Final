@@ -25,6 +25,8 @@
 4. **Ensure Both Server and Client are Running**:
    - It is crucial to have both the server and the client running simultaneously for the project to work correctly.
    - Make sure that the server is running first before starting the client application.
+   - Two users are provided for the sake of demonstrating login (planning to implement the creation of users a bit later) each with their own set of independent tasks.
+   - The first user is "coujo" and the password is "pass@123". The second user is "Kiki345" and the password is "orange787".
   
    **Note: It might be necessary to reinstall node modules by running "npm i" in either folder once you enter the directory**
 
