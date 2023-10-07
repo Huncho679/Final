@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Finish Homework",
+      "duration": 4,
+      "complete": true,
+      "description": "Complete the math assignment and submit it by the end of the day."
+    },
+    {
+      "id": 2,
+      "title": "Read a Book",
+      "duration": 2,
+      "complete": false,
+      "description": "Read the first three chapters of 'The Great Gatsby.'"
+    },
+    {
+      "id": 3,
+      "title": "Go for a Run",
+      "duration": 1,
+      "complete": false,
+      "description": "Take a quick jog around the neighborhood for some exercise."
+    },
+    {
+      "id": 4,
+      "title": "Study for Exam",
+      "duration": 3,
+      "complete": true,
+      "description": "Review the study guide for the upcoming history exam."
+    },
+    {
+      "id": 5,
+      "title": "Clean the House",
+      "duration": 2,
+      "complete": false,
+      "description": "Tidy up the living room and vacuum the floors."
+    },
+    {
+      "id": 6,
+      "title": "Write Code",
+      "duration": 5,
+      "complete": true,
+      "description": "Work on a coding project and implement new features."
+    },
+    {
+      "id": 7,
+      "title": "Buy Groceries",
+      "duration": 1,
+      "complete": true,
+      "description": "Visit the grocery store and purchase essential items."
+    },
+    {
+      "id": 8,
+      "title": "Watch a Movie",
+      "duration": 2,
+      "complete": false,
+      "description": "Watch the latest action movie in the evening."
+    },
+    {
+      "id": 9,
+      "title": "Exercise",
+      "duration": 1,
+      "complete": false,
+      "description": "Do a quick home workout routine."
+    },
+    {
+      "id": 10,
+      "title": "Cook Dinner",
+      "duration": 3,
+      "complete": true,
+      "description": "Prepare a delicious homemade dinner for the family."
+    }
+  ]
+}

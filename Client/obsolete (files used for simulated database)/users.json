@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "userName": "coujo",
+      "name": "Joel Johnson",
+      "password": "pass@123"
+    },
+    {
+      "userName": "Kiki345",
+      "name": "Kiki Wiki",
+      "password": "orange787"
+    }
+  ]
+}
