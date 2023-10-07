@@ -6,7 +6,7 @@
    Open the entire project (or not but that's how I did it) in your preferred code editor, such as Visual Studio Code.
 
 2. **Start the Server**:
-   - Navigate to the "Server" folder within the "Final" directory.
+   - Navigate to the "Server" folder.
    - Open a terminal within the "Server" directory.
    - Execute the following command to start the server:
      ```bash
@@ -15,7 +15,7 @@
    - You will receive an indication in the console when the server and database have successfully started.
 
 3. **Start the Todo List Application**:
-   - Navigate to the "Client" folder within the "Final" directory.
+   - Navigate to the "Client" folder.
    - Open a terminal within the "Client" directory.
    - Execute the following command to start the Todo List application:
      ```bash
