@@ -25,4 +25,6 @@
 4. **Ensure Both Server and Client are Running**:
    - It is crucial to have both the server and the client running simultaneously for the project to work correctly.
    - Make sure that the server is running first before starting the client application.
+  
+   **Note: It might be necessary to reinstall node modules by running "npm i" in either folder once you enter the directory**
 
